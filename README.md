@@ -1,5 +1,5 @@
 # Face Landmarks with React + face-api.js
-![Sample face-api.js](https://github.com/mchayapol/face-api-react/blob/main/public/sample.png?raw=true | width=200)
+![Sample face-api.js](https://github.com/mchayapol/face-api-react/blob/main/public/sample.png?raw=true)
 
 This app uses webcam and (face-api.js)[https://github.com/justadudewhohacks/face-api.js/] to detect a face and extract landmarks of the face.
 
