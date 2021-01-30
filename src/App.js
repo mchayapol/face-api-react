@@ -48,7 +48,7 @@ export default function App() {
         faceapi.draw.drawFaceLandmarks(canvas, resizedResult)
       }
     } catch (err) {
-      console.err(err)
+      console.error(err)
     }
   }, 100)
 
